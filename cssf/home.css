@@ -1,0 +1,68 @@
+h1{
+font: 52px monospace;
+
+
+
+
+
+}
+body{
+    background-color: rgb(206, 153, 255);
+}
+#lst1{
+    display: inline;
+    border: 3px;
+    border-radius: 4px;
+    padding :10px;
+    margin : 6px;
+    font-size:25px;
+    font-family: monospace , fantasy;
+    text-align: center;
+
+}
+#lst2{
+    display: inline;
+    border: 3px;
+    border-radius: 4px;
+    padding :3px;
+    margin : 3px;
+    font-size:25px;
+    font-family: monospace;
+}
+#lst3{
+    display: inline;
+    border: 3px;
+    border-radius: 4px;
+    padding :10px;
+    margin : 6px;
+    font-size:25px;
+    font-family: monospace;
+    text-align: center;
+
+}
+#lst4{
+    display: inline;
+    border: 3px;
+    border-radius: 4px;
+    padding :10px;
+    margin : 6px;
+    font-size:25px;
+    font-family: monospace;
+    text-align: center;
+
+}
+#lst5{
+    display: inline;
+    border: 3px;
+    border-radius: 4px;
+    padding :10px;
+    margin : 6px;
+    font-size:25px;
+    font-family: monospace;
+    text-align: center;
+
+}
+.lst{
+    text-align: center;
+    padding: 30px;
+}
