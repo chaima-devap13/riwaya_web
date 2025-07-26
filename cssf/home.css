@@ -8,10 +8,10 @@ body{
 }
 #lst1{
     display: inline;
-    border: 3px;
-    border-radius: 4px;
-    padding :10px;
-    margin : 6px;
+    border:solid rgb(150, 84, 193);
+    border-radius: 30px;
+    padding :7px;
+    margin : 8px;
     font-size:25px;
     font-family: monospace , fantasy;
     text-align: center;
@@ -19,43 +19,44 @@ body{
 }
 #lst2{
     display: inline;
-    border: 3px;
-    border-radius: 4px;
-    padding :3px;
-    margin : 3px;
+    border:solid rgb(150, 84, 193);
+    border-radius: 30px;
+    padding :7px;
+    margin : 8px;
     font-size:25px;
-    font-family: monospace;
+    font-family: monospace , fantasy;
+    text-align: center;
 }
 #lst3{
     display: inline;
-    border: 3px;
-    border-radius: 4px;
-    padding :10px;
-    margin : 6px;
+    border:solid rgb(150, 84, 193);
+    border-radius: 30px;
+    padding :7px;
+    margin : 8px;
     font-size:25px;
-    font-family: monospace;
+    font-family: monospace , fantasy;
     text-align: center;
 
 }
 #lst4{
     display: inline;
-    border: 3px;
-    border-radius: 4px;
-    padding :10px;
-    margin : 6px;
+    border:solid rgb(150, 84, 193);
+    border-radius: 30px;
+    padding :7px;
+    margin : 8px;
     font-size:25px;
-    font-family: monospace;
+    font-family: monospace , fantasy;
     text-align: center;
 
 }
 #lst5{
     display: inline;
-    border: 3px;
-    border-radius: 4px;
-    padding :10px;
-    margin : 6px;
+    border:solid rgb(150, 84, 193);
+    border-radius: 30px;
+    padding :7px;
+    margin : 8px;
     font-size:25px;
-    font-family: monospace;
+    font-family: monospace , fantasy;
     text-align: center;
 
 }
